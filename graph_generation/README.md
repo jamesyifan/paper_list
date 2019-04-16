@@ -1,4 +1,4 @@
-transfer learning paper list
+graph generation paper list
 ===
 ## graph
 1. GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models.[pdf](https://arxiv.org/pdf/1802.08773.pdf)
