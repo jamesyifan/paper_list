@@ -5,3 +5,4 @@ network embedding paper list
 2. word2vec Explained: deriving Mikolov et al.'s negative-sampling word-embedding method. [pdf](https://arxiv.org/pdf/1402.3722.pdf)
 ## graph embedding
 1. DeepWalk: Online Learning of Social Representations. [pdf](https://arxiv.org/pdf/1403.6652.pdf)
+2. Deep Graph Infomax. [pdf](https://openreview.net/pdf?id=rklz9iAcKQ)
