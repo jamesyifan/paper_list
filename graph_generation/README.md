@@ -5,3 +5,9 @@ graph generation paper list
 2. Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation.[pdf](http://papers.nips.cc/paper/7877-graph-convolutional-policy-network-for-goal-directed-molecular-graph-generation.pdf)
 3. MolGAN: An implicit generative model for small molecular graphs.[pdf](https://arxiv.org/pdf/1805.11973.pdf)
 4. NetGAN: Generating Graphs via Random Walks.[pdf](https://arxiv.org/pdf/1803.00816.pdf)
+5. AMR Parsing with Cache Transition Systems. [pdf](https://www.cs.rochester.edu/u/gildea/pubs/peng-aaai18.pdf)
+
+## tree
+
+1.Non-Monotonic Sequential Text Generation. [pdf](https://arxiv.org/pdf/1902.02192.pdf)
+
