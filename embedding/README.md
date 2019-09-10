@@ -10,3 +10,4 @@ network embedding paper list
 
 ## sentences/structure embedding
 1. Ordered Neurons_Integrating Tree Structures into Recurrent Neural Networks. [pdf](https://arxiv.org/pdf/1810.09536.pdf)
+2. Structural Neural Encoders for AMR-to-text Generation. [pdf](https://arxiv.org/pdf/1903.11410)

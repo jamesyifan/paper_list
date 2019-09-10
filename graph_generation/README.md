@@ -10,6 +10,8 @@ graph generation paper list
 7. D-VAE: A Variational Autoencoder for Directed Acyclic Graphs. [pdf](https://arxiv.org/pdf/1904.11088.pdf)
 
 ## tree
-
 1. Non-Monotonic Sequential Text Generation. [pdf](https://arxiv.org/pdf/1902.02192.pdf)
 2. Natural Language Generation Using Dependency Tree Decoding for Spoken Dialog Systems. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8587246)
+
+## sequence
+1. Modeling Graph Structure in Transformer for Better AMR-to-Text Generation. [pdf](https://arxiv.org/pdf/1909.00136)
